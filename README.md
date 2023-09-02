@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently student in last year at school<br>👯 I’m looking to collaborate on software creation <br>🤝 I’m looking for help with be professional in my career<br>🌱 I’m currently learning computer science in depth concepts<br>💬 Ask me about full-stack development
+👯 I’m looking to collaborate on software creation <br>🤝 I’m looking for help with be professional in my career<br>🌱 I’m currently learning computer science in depth concepts<br>💬 Ask me about full-stack development
 
 ## 🌐 Socials:
 ## 🌐 Socials:
